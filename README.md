@@ -9,7 +9,6 @@ This repository contains a Jupyter notebook that provides a quick introduction t
 - [Usage](#usage)
 - [Examples](#examples)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Features
 
